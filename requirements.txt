@@ -1,0 +1,4 @@
+Flask
+requests
+moviepy
+gunicorn
